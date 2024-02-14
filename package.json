@@ -10,7 +10,7 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
+  "author": "HttpAnimation",
   "license": "Apache-2.0",
   "devDependencies": {
     "cordova-ios": "^7.0.1"
