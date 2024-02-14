@@ -1,7 +1,7 @@
 {
   "name": "github.com.httpanimation",
   "displayName": "Pie21",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
   "scripts": {
