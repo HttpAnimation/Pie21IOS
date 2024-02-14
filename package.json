@@ -11,7 +11,8 @@
     "ecosystem:cordova",
     "html",
     "e621",
-    "css"
+    "css",
+    "js"
   ],
   "author": "HttpAnimation",
   "license": "Apache-2.0",
