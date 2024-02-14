@@ -2,7 +2,7 @@
   "name": "github.com.httpanimation",
   "displayName": "Pie21",
   "version": "0.0.1",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "A e621 client built for IOS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"I have no idea how to make a test so none sorry mate UwU\" && exit 1"
